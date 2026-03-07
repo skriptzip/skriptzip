@@ -1,4 +1,4 @@
-### 👋 My name is **Matthias M.** I'm a 6th-semester bachelor's student at [THWS](https://www.thws.de/) in Germany.
+### 👋 My name is **Matthias.** I'm a 6th-semester bachelor's student at [THWS](https://www.thws.de/) in Germany.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=skriptzip&theme=github-dark&hide_border=true">
