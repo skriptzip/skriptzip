@@ -64,7 +64,7 @@
 
 ---
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skriptzip&theme=github-compact&hide_border=true)](https://github.com/skriptzip/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skriptzip&theme=github-compact&hide_border=true)](https://github.com/skriptzip/)
 
 
 ---
