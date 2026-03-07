@@ -17,7 +17,10 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skriptzip/skriptzip/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skriptzip/skriptzip/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/skriptzip/skriptzip/output/snake-light.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
